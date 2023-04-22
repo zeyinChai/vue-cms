@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue3_ts_xiangmu"]=self["webpackChunkvue3_ts_xiangmu"]||[]).push([[662],{662:function(n,t,u){u.r(t),u.d(t,{default:function(){return l}});var e=u(3396);const a={class:"chat"},r=(0,e._)("h2",null,"chat",-1),c=[r];function s(n,t,u,r,s,i){return(0,e.wg)(),(0,e.iD)("div",a,c)}var i=(0,e.aZ)({name:"chatIndex",setup(){return{}}}),h=u(89);const f=(0,h.Z)(i,[["render",s]]);var l=f}}]);
+//# sourceMappingURL=662.a512542e.js.map
