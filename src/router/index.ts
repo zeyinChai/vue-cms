@@ -25,7 +25,8 @@ const routes: RouteRecordRaw[] = [
   {
     path: "/:pathMatch(.*)*",
     name: "not-found",
-    component: () => import("@/views/not-found/not-found.vue"),
+    component: () =>
+      import(/* webpackPrefetch: true */ "@/views/not-found/not-found.vue"),
   },
 ];
 
